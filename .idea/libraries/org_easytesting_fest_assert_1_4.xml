@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.easytesting:fest-assert:1.4" type="repository">
+    <properties maven-id="org.easytesting:fest-assert:1.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-assert/1.4/fest-assert-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

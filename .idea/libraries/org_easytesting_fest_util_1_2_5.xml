@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.easytesting:fest-util:1.2.5" type="repository">
+    <properties maven-id="org.easytesting:fest-util:1.2.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-util/1.2.5/fest-util-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

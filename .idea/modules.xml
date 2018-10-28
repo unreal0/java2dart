@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.google.dart.console/com.google.dart.console.iml" filepath="$PROJECT_DIR$/com.google.dart.console/com.google.dart.console.iml" group="com/google/dart" />
+      <module fileurl="file://$PROJECT_DIR$/com.google.dart.engine/com.google.dart.engine.iml" filepath="$PROJECT_DIR$/com.google.dart.engine/com.google.dart.engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.google.dart.java2dart/com.google.dart.java2dart.iml" filepath="$PROJECT_DIR$/com.google.dart.java2dart/com.google.dart.java2dart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.google.dart.java2dart_test/com.google.dart.java2dart_test.iml" filepath="$PROJECT_DIR$/com.google.dart.java2dart_test/com.google.dart.java2dart_test.iml" />
+    </modules>
+  </component>
+</project>
